@@ -6,13 +6,13 @@
 
 }
 .cabecalho{
-border-left-color: darkorchid;
+background-color: blueviolet;
 }
 
 .corpo{
-border-left-color: mediumorchid;
+background-color: violet;
 }
 
 .footer{
-border-left-color: mediumvioletred;
+background-color: mediumvioletred;
 }
