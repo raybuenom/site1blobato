@@ -6,16 +6,16 @@
 
 }
 .cabecalho{
-background-color: blueviolet;
+background-color: rgba(218, 45, 174, 0.829);
 padding: 170px;
 }
 
 .corpo{
-background-color: rgba(159, 57, 228, 0.644);
+background-color: rgba(228, 58, 171, 0.705);
 padding: 120px;
 }
 
 .footer{
-background-color: rgba(199, 21, 134, 0.877);
+background-color: rgba(241, 16, 166, 0.788);
 padding: 150px;
 }
