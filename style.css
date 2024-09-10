@@ -11,9 +11,11 @@ padding: 170px;
 }
 
 .corpo{
-background-color: violet;
+background-color: rgba(159, 57, 228, 0.644);
+padding: 120px;
 }
 
 .footer{
-background-color: mediumvioletred;
+background-color: rgba(199, 21, 134, 0.877);
+padding: 150px;
 }
