@@ -24,8 +24,8 @@ padding: 150px;
     top: 20px;
     left: 20px;
     padding: 10px 20px;
-    background-color: #ff00ea;
-    color: blueviolet;
+    background-color: #0026ff;
+    color: rgb(226, 131, 43);
     text-decoration: none;
     border-radius: 5px;
 
@@ -33,7 +33,7 @@ padding: 150px;
 
 
 .boton:hover{
-    background: linear-gradient(to right, #e2dade #df3adf #eb0e0e);
+    background: linear-gradient(to right, #e2dade, #df3adf, #eb0e0e);
 }
 
 .boton:active {
