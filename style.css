@@ -21,4 +21,20 @@ padding: 150px;
 }
 .botn{
      position: fixed;
+     top: 20px;
+     left: 20px;
+     padding: 10px 20px;
+    background-color: #ff00ea;
+    color: blueviolet;
+text-decoration: none;
+border-radius: 5px;
+
+}
+
+
+.boton:hover{
+ background: linear-gradient(to right,#d43a8f #df3adf #e61e7b);
+}
+.boton:active{
+    font-size: 17px;
 }
