@@ -6,12 +6,12 @@
 
 }
 .cabecalho{
-background-color: #fd9f9a;
+background-color: #899853;
 padding: 16px;
 }
 
 .corpo{
-background-color: #899853;
+background-color: #fd9f9a;
 padding: 290px;
 }
 
@@ -48,7 +48,7 @@ img {
     object-fit: cover;
 }
 .container {
-    background-image: url('images.png'); /* Substitua pelo caminho da sua imagem */
+    background-image: url(); /* Substitua pelo caminho da sua imagem */
     background-size: cover; /* Para cobrir toda a div */
     background-position: center; /* Para centralizar a imagem */
     background-repeat: no-repeat; /* Não repetir a imagem */
