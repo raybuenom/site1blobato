@@ -52,3 +52,13 @@ img {
     height: 250px;
     object-fit: cover;
 }
+.container {
+    background-image: url('Podpah-e-o-podcast-1-no-Spotify-.jpg'); /* Substitua pelo caminho da sua imagem */
+    background-size: cover; /* Para cobrir toda a div */
+    background-position: center; /* Para centralizar a imagem */
+    height: 100vh; /* Altura total da janela */
+    display: flex; /* Para centralizar o conteúdo */
+    align-items: center; /* Centraliza verticalmente */
+    justify-content: center; /* Centraliza horizontalmente */
+    color: white; /* Cor do texto */
+}
