@@ -33,7 +33,7 @@ padding: 15px;
 
 
 .boton:hover{
-    background: linear-gradient(to right, #e2dade, #ed6665, #fd6081);
+    background: linear-gradient(to right, #e2dade, #f1396d, #fd6081);
 }
 
 .boton:active {
