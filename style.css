@@ -6,17 +6,17 @@
 
 }
 .cabecalho{
-background-color: rgb(0, 0, 0);
+background-color: #bbc877;
 padding: 16px;
 }
 
 .corpo{
-background-color: rgba(255, 177, 9, 0.856);
+background-color: #ed6665;
 padding: 290px;
 }
 
 .footer{
-background-color: rgb(0, 0, 0);
+background-color: #899853;
 padding: 15px;
 }
 .boton {
@@ -25,7 +25,7 @@ padding: 15px;
     left: 20px;
     padding: 10px 20px;
     background-color: #ffffff;
-    color: rgb(226, 131, 43);
+    color: #fd9f9a;
     text-decoration: none;
     border-radius: 5px;
 
